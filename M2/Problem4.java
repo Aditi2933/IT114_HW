@@ -54,7 +54,7 @@ public class Problem4 extends BaseClass {
         transformText(array3, 3);
         transformText(array4, 4);
         printFooter(ucid, 4);
-        System.print.out("Hello world");
+        
     }
 
 }
