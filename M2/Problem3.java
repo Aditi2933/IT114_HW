@@ -47,7 +47,7 @@ public class Problem3 extends BaseClass {
                 }
             }
             else
-            {
+            { 
                 output[i] = arr[i]; // keep original value
             }
         }
